@@ -43,21 +43,19 @@ Here's a list of things I currently keep myself busy with:
 </details>
 
 <hr>
+
 <p align="center">
-  <i>Let's get to know each other !</i>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/lucy-linder-4a401726/" alt="Linkedin">
-        <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg">
-    </a>
-    <a href="mailto:pcfncx@m.hackerx.org" alt="Contact me">
-        <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg">
-    </a>
+  <a href="https://www.linkedin.com/in/lucy-linder-4a401726/" alt="Linkedin">
+      <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg">
+  </a>
+  <a href="mailto:pcfncx@m.hackerx.org" alt="Contact me">
+      <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg">
+  </a>
 </p>
 
-  <p align="center">
-    ⤅ <a href="https://derlin.ch">derlin.ch</a> ⬶
-  </p>
+<p align="center">
+  ⤅ <a href="https://derlin.ch">derlin.ch</a> ⬶
 </p>
+
 
 <img src="https://raw.githubusercontent.com/derlin/derlin/master/resources/banner-bottom.svg" alt="Banner Bottom">
