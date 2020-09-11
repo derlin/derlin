@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 702 1234 261" width="1234pt" height="261pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.2.2 
+    <dc:date>2020-09-11 06:53:44 +0000</dc:date>
+  </metadata>
+  <defs>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff914d"/>
+      <stop offset="1" stop-color="#f26077"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(0 832) scale(1234)"/>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" width="1290" height="1071"/>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 834.5003 862 C 981.7003 912 1129.9993 837 1175.9993 774.5 L 1234 702 L 1234 962 L 0 962 L 0 826.5001 C 51.6 897.3 249.0003 903.793 357.5003 862.0001 C 466.0003 820.2074 687.3003 812 834.5003 862 Z" fill="url(#Obj_Gradient)"/>
+    </g>
+  </g>
+</svg>
