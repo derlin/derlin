@@ -1,8 +1,10 @@
 <img src="https://raw.githubusercontent.com/derlin/derlin/master/resources/banner-top.svg" alt="Banner Top">
 
-<div align="center">
+<p align="center">
 <i>"Any sufficiently advanced technology is indistinguishable from magic"</i>, Arthur C. Clarke
-</div>
+</p>
+
+<br>
 
 I am a passionate developer fond of octopuses. ✨
 
