@@ -41,7 +41,7 @@ Here's a list of things I currently keep myself busy with:
 </p>
 
   <p align="center">
-    <a href="https://derlin.ch">derlin.ch</a>
+    ⤅ <a href="https://derlin.ch">derlin.ch</a> ⬶
   </p>
 </p>
 
