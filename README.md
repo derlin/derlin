@@ -10,9 +10,10 @@ I am a passionate developer fond of octopuses. ✨
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a full stack developer over at **[Sicpa](https://www.sicpa.com/)** using Java, Angular, Groovy and more
-- ☀️ Maintaining **[BBData](https://github.com/big-building-data)**, an open-source platform for ingesting and managing sensors data
-- 🛠 trying to keep up with new technologies. Currently very interested in learning Rust !
+- 👩🏻‍💻 &nbsp; Working as a full stack developer over at **[Sicpa](https://www.sicpa.com/)** using Java, Angular, Groovy and more
+- 👐  &nbsp; Co-organizing the **[GDG Fribourg](https://gdgfribourg.ch/)** (feel free to join !)
+- 🏢  &nbsp; Maintaining **[BBData](https://github.com/big-building-data)**, an open-source platform for ingesting and managing sensors data
+- 💫  &nbsp; Trying to keep up with new technologies. Currently very interested in learning Rust !
 
 <details>
   <summary>Some random facts about me</summary>
@@ -25,6 +26,20 @@ Here's a list of things I currently keep myself busy with:
   <br>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=derlin&show_icons=true&theme=solarized-light" alt="My Github Stats"></a></p>
   <br>
+</details>
+
+<details>
+  <summary>Some links</summary>
+  <br>
+
+  - [PWA-ize](https://derlin.github.io/pwa-ize/): transform any web page into a PWA
+  - [BBData (Daplab instance)](https://bbdata.daplab.ch): the BBData API (demo instance)
+  - [python-get-html](https://github.com/derlin/get-html): rendering HTML for humans
+  - [phrasal](https://this-is-phrasal.herokuapp.com/): Python sentence extraction tools (demo)
+
+  <br>
+  
+  .. And much more on my Github and [personal website](https://derlin.ch) !
 </details>
 
 <hr>
