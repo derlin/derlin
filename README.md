@@ -10,7 +10,7 @@ I am a passionate developer fond of octopuses. ✨
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 &nbsp; Working as a full stack developer over at **[Sicpa](https://www.sicpa.com/)** using Java, Angular, Groovy and more
+- 👩🏻‍💻 &nbsp; Working as a full stack developer over at **[Sicpa](https://www.sicpa.com/)** using Java, Kotlin, Groovy, Helm and more
 - 👐  &nbsp; Co-organizing the **[GDG Fribourg](https://gdgfribourg.ch/)** (feel free to join !)
 - 🏢  &nbsp; Maintaining **[BBData](https://github.com/big-building-data)**, an open-source platform for ingesting and managing sensors data
 - 💫  &nbsp; Trying to keep up with new technologies. Currently very interested in learning Rust !
@@ -20,8 +20,8 @@ Here's a list of things I currently keep myself busy with:
   <br>
 
   - I LOOVE octopuses 🐙🐙 I kept a blog about them for sometime, <b>[Oct0pus](https://0ct0pus.tumblr.com/)</b>, even though I haven't updated it in a while...
-  - My new 2020 challenge: reading at least 10 minutes a day. I kept the pace so far !
-  - My go-to breakfast is "tartines of Cenovis" (Swiss Marmite on bread)
+  - My ongoing challenge: reading at least 10 minutes a day (going strong since April, 2020)
+  - My go-to breakfast is "tartines au Cenovis" (Swiss Marmite on bread)
 
   <br>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=derlin&show_icons=true&theme=solarized-light" alt="My Github Stats"></a></p>
@@ -34,6 +34,7 @@ Here's a list of things I currently keep myself busy with:
 
   - [PWA-ize](https://derlin.github.io/pwa-ize/): transform any web page into a PWA
   - [BBData (Daplab instance)](https://bbdata.daplab.ch): the BBData API (demo instance)
+  - [HEPQPR.Qallse](https://github.com/derlin/hepqpr-qallse): using D-Wave for particle tracking at CERN
   - [python-get-html](https://github.com/derlin/get-html): rendering HTML for humans
   - [phrasal](https://this-is-phrasal.herokuapp.com/): Python sentence extraction tools (demo)
 
