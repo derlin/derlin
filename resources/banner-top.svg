@@ -13,7 +13,6 @@
   </defs>
   <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
     <title>banner</title>
-    <rect fill="white" width="1235" height="962"/>
     <g>
       <title>banner-top 2</title>
       <path d="M 435 342 C 285.98868 291.38474 131.81818 300 76 361 L 682121e-18 436.83094 L 682121e-18 51.51515 L 1234 51.51515 L 1234 399.3511 C 1181.765 327.67988 1011.7047 260.21905 901.8696 302.5263 C 792.0345 344.8336 584.0113 392.61526 435 342 Z" fill="url(#Obj_Gradient)"/>
