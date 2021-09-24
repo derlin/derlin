@@ -13,7 +13,7 @@ Here's a list of things I currently keep myself busy with:
 - 👩🏻‍💻 &nbsp; Working as a full stack developer over at **[Sicpa](https://www.sicpa.com/)** using Java, Kotlin, Groovy, Helm and more
 - 👐  &nbsp; Co-organizing the **[GDG Fribourg](https://gdgfribourg.ch/)** (feel free to join !)
 - 🏢  &nbsp; Maintaining **[BBData](https://github.com/big-building-data)**, an open-source platform for ingesting and managing sensors data
-- 💫  &nbsp; Trying to keep up with new technologies. Currently very interested in learning Rust !
+- 💫  &nbsp; Trying to keep up with new technologies.
 
 <details>
   <summary>Some random facts about me</summary>
@@ -28,11 +28,18 @@ Here's a list of things I currently keep myself busy with:
   <br>
 </details>
 
-<details>
-  <summary>Some links</summary>
-  <br>
 
-  - [PWA-ize](https://derlin.github.io/pwa-ize/): transform any web page into a PWA
+Check some of my projects:
+
+- [PWA-ize](https://derlin.github.io/pwa-ize/): a little web page to transform any web page into a PWA
+- [bitdowntoc](https://derlin.github.io/bitdowntoc/): quickly generate markdown TOC for BitBucket, GitHub, GitLab, etc. online or using cli
+- [docker-compose-viz (mermaid)](https://github.com/derlin/docker-compose-viz-mermaid): visualize your docker-compose files (executable jar)
+
+
+<details>
+  <summary>Want more projects ?</summary>
+  <br>
+  
   - [BBData (Daplab instance)](https://bbdata.daplab.ch): the BBData API (demo instance)
   - [HEPQPR.Qallse](https://github.com/derlin/hepqpr-qallse): using D-Wave for particle tracking at CERN
   - [python-get-html](https://github.com/derlin/get-html): rendering HTML for humans
