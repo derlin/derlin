@@ -24,7 +24,7 @@ Here's a list of things I currently keep myself busy with:
   - My go-to breakfast is "tartines au Cenovis" (Swiss Marmite on bread)
 
   <br>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=derlin&show_icons=true&theme=solarized-light" alt="My Github Stats"></a></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=derlin&show_icons=true&theme=dark" alt="My Github Stats"></a></p>
   <br>
 </details>
 
