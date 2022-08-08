@@ -20,7 +20,7 @@ Here's a list of things I currently keep myself busy with:
   <br>
 
   - I LOOVE octopuses 🐙🐙 I kept a blog about them for sometime, <b>[Oct0pus](https://0ct0pus.tumblr.com/)</b>, even though I haven't updated it in a while...
-  - My ongoing challenge: reading at least 10 minutes a day (going strong since April, 2020)
+  - My ongoing challenge: reading at least 10 minutes a day (going strong since April, 2020) → see [my stats here](https://derlin.github.io/reading-stats/)
   - My go-to breakfast is "tartines au Cenovis" (Swiss Marmite on bread)
 
   <br>
