@@ -27,7 +27,7 @@ I am a passionate software engineer fond of octopuses. ✨
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 &nbsp; Working as a full stack developer over at **[Sicpa](https://www.sicpa.com/)** using Java, Kotlin, Spring Boot, Helm and more
+- 👩🏻‍💻 &nbsp; Working as a software engineer/SRE at **[Divio](https://divio.com/)** using Python (Django), S3, AWS, Azure, and more
 - 👐  &nbsp; Co-organizing the **[GDG Fribourg](https://gdgfribourg.ch/)**, feel free to join !
 - 📝  &nbsp; Publishing on [blog.derlin.ch](https://blog.derlin.ch) (and [dev.to](https://dev.to/derlin), follow me :)
 - 💫  &nbsp; Trying to keep up with new technologies.
