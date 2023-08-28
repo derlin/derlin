@@ -50,7 +50,7 @@ Here's a list of things I currently keep myself busy with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  width="40" height="40" /> &nbsp;
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=derlin&show_icons=true&theme=dark" alt="My Github Stats"></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=derlin&show_icons=true&theme=dark&rank_icon=percentile&custom_title=Derlin%27s%20Stats" alt="My Github Stats"></a></p>
 
 ![divider white down](https://user-images.githubusercontent.com/5463445/218829415-bda5c813-65fa-4812-8ea6-24c911e4b10a.png)
 
