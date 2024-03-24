@@ -62,6 +62,7 @@ Here's a list of things I currently keep myself busy with:
 Check some of my projects: 
 
 - [bitdowntoc](https://derlin.github.io/bitdowntoc/): quickly generate markdown TOC for BitBucket, GitHub, GitLab, dev.to, etc. online or using cli
+- [mantelo](https://derlin.github.io/mantelo/): a Keycloak Admin REST Api Client for Python. Always up-to-date, always fresh!
 - [docker-compose-viz (mermaid)](https://github.com/derlin/docker-compose-viz-mermaid): visualize your docker-compose files (executable jar)
 - [PWA-ize](https://derlin.github.io/pwa-ize/): a little web page to transform any web page into a PWA
 - [rickroller](https://github.com/derlin/rickroller): RickRoll your friends like a pro, and learn with me some best practices!
