@@ -61,8 +61,8 @@ Here's a list of things I currently keep myself busy with:
 
 Check some of my projects: 
 
-- [bitdowntoc](https://derlin.github.io/bitdowntoc/): quickly generate markdown TOC for BitBucket, GitHub, GitLab, dev.to, etc. online or using cli
-- [mantelo](https://derlin.github.io/mantelo/): a Keycloak Admin REST Api Client for Python. Always up-to-date, always fresh!
+- [bitdowntoc](https://derlin.github.io/bitdowntoc/): quickly generate markdown TOC for BitBucket, GitHub, GitLab, dev.to, etc. online or cli
+- [mantelo](https://github.com/derlin/mantelo/): a Keycloak Admin REST Api Client for Python. Always up-to-date, always fresh!
 - [docker-compose-viz (mermaid)](https://github.com/derlin/docker-compose-viz-mermaid): visualize your docker-compose files (executable jar)
 - [PWA-ize](https://derlin.github.io/pwa-ize/): a little web page to transform any web page into a PWA
 - [rickroller](https://github.com/derlin/rickroller): RickRoll your friends like a pro, and learn with me some best practices!
@@ -79,13 +79,13 @@ Check some of my projects:
 
   <br>
   
-  .. And much more on my [Github](https://derlin.github.io/github-projects) and [personal website](https://derlin.ch) !
+  .. And much more on my [Github](https://derlin.github.io/github-projects) and [personal website](https://derlin.ch)!
 </details>
 
 Some random facts about me:
 
-  - I LOOVE octopuses 🐙🐙 I kept a blog about them for sometime, <b>[Oct0pus](https://0ct0pus.tumblr.com/)</b>, even though I haven't updated it in a while...
-  - My ongoing challenge: reading at least 10 minutes a day (going strong since April, 2020) → see [my stats here](https://derlin.github.io/reading-stats/)
+  - I LOOVE octopuses 🐙🐙 I kept a blog about them for some time, <b>[Oct0pus](https://0ct0pus.tumblr.com/)</b>, even though I haven't updated it in a while...
+  - My ongoing challenge: reading at least 10 minutes a day (going strong since April 2020) → see [my stats here](https://derlin.github.io/reading-stats/)
   - My go-to breakfast is "tartines au Cenovis" (Swiss Marmite on bread)
 
 
